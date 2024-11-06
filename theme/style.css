@@ -40,13 +40,35 @@ a, i, input, img, h1, button, figure{
     text-decoration: none;
   }
 
+header{
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: right;
+  padding: 10px 50px;
+  background: #fca311;
+  height: fit-content;
+  min-width: 750px;
+  width: 100%;
+}
+
+header h1, header i{
+  color: azure;
+  font-size:  1.2rem;
+  font-weight: 500;
+}
+
+header h1:hover{
+  color: #3c6e71;
+}
+
 .secton{
   display: flex;
   position: relative;
   align-items: center;
   justify-content: center;
   background: #fca311;
-  height: 100dvh;
+  height: 95dvh;
   min-width: 750px;
   width: 100%;
 }
