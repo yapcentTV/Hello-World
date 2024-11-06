@@ -46,7 +46,7 @@ header{
   align-items: center;
   justify-content: right;
   padding: 10px 50px;
-  background: #fca311;
+  background: #eb5e28;
   height: fit-content;
   min-width: 750px;
   width: 100%;
@@ -59,7 +59,7 @@ header h1, header i{
 }
 
 header h1:hover{
-  color: #3c6e71;
+  color: #fffcf2;
 }
 
 .secton{
@@ -67,7 +67,7 @@ header h1:hover{
   position: relative;
   align-items: center;
   justify-content: center;
-  background: #fca311;
+  background: #eb5e28;
   height: 95dvh;
   min-width: 750px;
   width: 100%;
