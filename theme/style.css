@@ -46,7 +46,7 @@ a, i, input, img, h1, button, figure{
   align-items: center;
   justify-content: center;
   background: #fca311;
-  height: 90dvh;
+  height: 100dvh;
   min-width: 750px;
   width: 100%;
 }
